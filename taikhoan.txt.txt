@@ -1,0 +1,5 @@
+
+User  		Pass		Quyen
+admin		admin		ADMIN
+htrg		2000		NV
+tuan		123		NV
